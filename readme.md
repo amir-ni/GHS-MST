@@ -28,4 +28,4 @@ Each line represents one edge of the graph in the following format:
 - `<source_nid> <destination_nid> <weight> <delay>`
 
 A sample input is available in "`input.txt`" which it's representation is shown below.
-![input graph](https://github.com/amir-ni/GHS-MST/blob/master/image.jpg?raw=true)
+![input graph](https://github.com/amir-ni/GHS-MST/blob/master/input.png?raw=true)
